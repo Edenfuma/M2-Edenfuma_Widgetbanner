@@ -3,7 +3,6 @@
     "description": "Edenfuma Widgetbanner",
     "require": {
       "php": ">=7.0.6",
-      "magento/framework": "0.74.0-beta4",
       "magento/magento-composer-installer": "*"
     },
     "type": "magento2-module",
