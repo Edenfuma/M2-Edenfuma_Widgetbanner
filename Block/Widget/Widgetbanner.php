@@ -12,6 +12,3 @@ class Widgetbanner extends Template implements BlockInterface
     protected $_template = "widget/widgetbanner.phtml";
 
 }
-
-
-	

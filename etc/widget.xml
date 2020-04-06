@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <widgets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Widget:etc/widget.xsd">
 
-		 <widget class="Widgetbanner\Widgetbanner\Block\Widget\Widgetbanner" id="widgetbanner_widgetbanner_widgetbanner">
+	<widget class="Edenfuma\Widgetbanner\Block\Widget\Widgetbanner" id="edenfuma_widgetbanner">
 		<label>Widget Banner</label>
 		<description>Widget para desplegar un banner</description>
 		
@@ -14,7 +14,6 @@
 			</parameter>
 		</parameters>
 		
-		</widget>
+	</widget>
 	
 </widgets>
-
